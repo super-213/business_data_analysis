@@ -1,0 +1,2 @@
+数据使用faker生成 用csv文件保存
+对于图表的解释在EDA.ipynb中
