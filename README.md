@@ -3,3 +3,5 @@
 数据可视化代码存放在EDA中
 
 数据分析代码存放在machine learning中
+
+商业数据分析的大作业放在thesis中
